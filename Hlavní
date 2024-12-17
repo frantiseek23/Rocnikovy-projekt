@@ -4,6 +4,7 @@ Pro umístění součástek jsem použil starou plastovou krabici od malého roz
 Do plastové krabice jsem tavnou pistolí přilepil displeje a pozapojoval. Po zapojení do usb a nahrání kodu se nastaví dnešní datum na lcd displeji a 
 společne s čase na segmentovém displeji.
 
+Schéma zapojení segmentového displeje : https://drive.google.com/file/d/1-3PZHfnvbcpjpSS8pFqTY1hVv5znygu3/view
 
 Použité součástky: 
  - Arduino Uno R3
@@ -18,5 +19,7 @@ V druhém pololetí bych chtěl stanici ještě vylepšit na základě teploměr
 Dále pak podsvícení které bude ovládáno přes tlačítko ještě přemýšlím jestli to bude skrz didody nebo přes led pásky.
 Projekt je teprve rozpracovaný a budu na něm pokračovat dále a přidávat nové věci.
 
-
+Zdroje :
+https://www.youtube.com/ (obecně neuložil jsem si odkazy)
+https://forum.arduino.cc/t/displaying-date-and-time-on-lcd-in-setup-using-for-loop-to-make-time-tick/471731
 
