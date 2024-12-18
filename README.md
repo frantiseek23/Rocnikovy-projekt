@@ -20,6 +20,7 @@ můj větší obdiv, i tak jsem se rozhodl že to bude nejlepší pro mě.
 Tímhle bych chtěl poděkovat mému tátovi který mě do toho dokopal a pomohl mi s tím jak bude stanice vypadat.
 V druhém pololetí bych chtěl stanici ještě vylepšit na základě teploměrového modulu se kterým budeme pracovat.
 Dále pak podsvícení které bude ovládáno přes tlačítko ještě přemýšlím jestli to bude skrz didody nebo přes led pásky.
+Místo segmentového displeje bych chtěl použít OLED displej pro lepší viditelnost.
 Projekt je teprve rozpracovaný a budu na něm pokračovat dále a přidávat nové věci.
 
 
