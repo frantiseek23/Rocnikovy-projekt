@@ -22,6 +22,6 @@ V druhém pololetí bych chtěl stanici ještě vylepšit na základě teploměr
 Dále pak podsvícení které bude ovládáno přes tlačítko ještě přemýšlím jestli to bude skrz didody nebo přes led pásky.
 Projekt je teprve rozpracovaný a budu na něm pokračovat dále a přidávat nové věci.
 
-Zdroje :
-https://www.youtube.com/ (obecně neuložil jsem si odkazy)
-https://forum.arduino.cc/t/displaying-date-and-time-on-lcd-in-setup-using-for-loop-to-make-time-tick/471731
+
+Youtube. Online. Dostupné z: https://www.youtube.com/. [cit. 2024-12-18].
+Arduino. Online. Dostupné z: https://forum.arduino.cc/t/displaying-date-and-time-on-lcd-in-setup-using-for-loop-to-make-time-tick/471731. [cit. 2024-12-18].
