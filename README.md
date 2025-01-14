@@ -17,6 +17,10 @@ Použité součástky:
 Arduino UNO R3
 4-místný sedmisegmentový displej H5410561K-32
 16x2 LCD displej 1602 + I2C převodník (v budoucnu bude nahrazen OLED displejem)
+
+Foto součástek a součásného stavu :
+![image](https://github.com/user-attachments/assets/a8477ec6-502a-4dfa-af0c-9eefacdf91a0)
+
 Inspirace a motivace:
 
 Inspiroval jsem se meteo stanicí, kterou vlastním doma. I když práce s mikrokontroléry není mým hlavním zaměřením, rozhodl jsem se tento projekt realizovat, protože mě zaujala možnost přizpůsobit si vlastní „meteostanici“. Rád bych tímto poděkoval svému tátovi za podporu a pomoc při navrhování vzhledu stanice.
