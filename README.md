@@ -1,28 +1,31 @@
 # Rocnikovy-projekt - Matěj Topinka T3A
 
 
-Mým cílem projetku udělat DIY "Meteo-časovou" stanicí za pomocí mikrokontroleru Arduino UNO R3. Která prozatím ukazuje pouze čas a datum.
+Název projektu: DIY "Meteo-časová" stanice na platformě Arduino UNO R3
 
-Pro umístění součástek jsem použil starou plastovou krabici od malého rozvaděče kvůli tomu že je má dostatek místa na případné úpravy. 
-Do plastové krabice jsem tavnou pistolí přilepil displeje a pozapojoval. Po zapojení do usb a nahrání kodu se nastaví dnešní datum na lcd displeji a 
-společne s čase na segmentovém displeji.
+Mým cílem v tomto projektu bylo vytvořit DIY „Meteo-časovou“ stanici za pomoci mikrokontroléru Arduino UNO R3. V současnosti stanice zobrazuje čas a datum, ale plánujeme ji v budoucnu rozšířit o další funkce.
 
-Schéma zapojení segmentového displeje : https://drive.google.com/file/d/1-3PZHfnvbcpjpSS8pFqTY1hVv5znygu3/view
+Popis konstrukce a umístění součástek:
 
-Použité součástky: 
- - Arduino Uno R3
- - 4-místný sedmisegmentový displej H5410561K-32
- - 16x2 LCD displej 1602 + I2C převodník (bude nahrazen oled displejem)
- 
+Pro umístění součástek jsem použil starou plastovou krabici od malého rozvaděče, protože má dostatek prostoru pro případné úpravy. Do této krabice jsem pomocí tavné pistole připevnil LCD displej a segmentový displej, následně jsem vše propojit a zapojil. Po připojení zařízení k počítači přes USB a nahrání kódu se na LCD displeji zobrazí aktuální datum a na segmentovém displeji čas.
 
-Inspiroval jsem se Meteo stanicí kterou vlastním doma a celkem mě to zaujalo i když pracování s mikrokontrolery nemá
-můj větší obdiv, i tak jsem se rozhodl že to bude nejlepší pro mě.
-Tímhle bych chtěl poděkovat mému tátovi který mě do toho dokopal a pomohl mi s tím jak bude stanice vypadat.
-V druhém pololetí bych chtěl stanici ještě vylepšit na základě teploměrového modulu se kterým budeme pracovat.
-Dále pak podsvícení které bude ovládáno přes tlačítko ještě přemýšlím jestli to bude skrz didody nebo přes led pásky.
-Místo segmentového displeje bych chtěl použít OLED displej pro lepší viditelnost.
-Projekt je teprve rozpracovaný a budu na něm pokračovat dále a přidávat nové věci.
+Schéma zapojení segmentového displeje:
+Odkaz na schéma zapojení
 
+Použité součástky:
 
-Youtube. Online. Dostupné z: https://www.youtube.com/. [cit. 2024-12-18].
-Arduino. Online. Dostupné z: https://forum.arduino.cc/t/displaying-date-and-time-on-lcd-in-setup-using-for-loop-to-make-time-tick/471731. [cit. 2024-12-18].
+Arduino UNO R3
+4-místný sedmisegmentový displej H5410561K-32
+16x2 LCD displej 1602 + I2C převodník (v budoucnu bude nahrazen OLED displejem)
+Inspirace a motivace:
+
+Inspiroval jsem se meteo stanicí, kterou vlastním doma. I když práce s mikrokontroléry není mým hlavním zaměřením, rozhodl jsem se tento projekt realizovat, protože mě zaujala možnost přizpůsobit si vlastní „meteostanici“. Rád bych tímto poděkoval svému tátovi za podporu a pomoc při navrhování vzhledu stanice.
+
+Plány na vylepšení:
+
+V druhém pololetí bych chtěl projekt vylepšit. Plánuji přidat teploměrový modul, který bude měřit teplotu, a podsvícení, které bude ovládáno tlačítkem. Zvažuju, zda použít diody nebo LED pásky pro efektivní podsvícení. Také bych rád vyměnil segmentový displej za OLED displej pro lepší viditelnost a estetiku. Projekt je zatím v rozpracované fázi a budu na něm dále pracovat, přidávat nové funkce a vylepšení.
+
+Seznam použitých zdrojů:
+
+YouTube, online. Dostupné z: https://www.youtube.com/. [cit. 2024-12-18].
+Arduino Fórum, online. Dostupné z: https://forum.arduino.cc/t/displaying-date-and-time-on-lcd-in-setup-using-for-loop-to-make-time-tick/471731. [cit. 2024-12-18].
